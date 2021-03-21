@@ -2,7 +2,7 @@
 Repositorio para testar Jenkins
 
 ## Como Executar o Projeto
-*importante ter o Ruby instalado (versão 2.5 ou superior)
+* importante ter o Ruby instalado (versão 2.5 ou superior)
 
 ## Instalar o Bundler
 `
